@@ -1,6 +1,6 @@
 
 
-WTF does this look like programming or math?
+WTF does this look like programming or math? https://web.mit.edu/18.06/www/Fall2022/pset13.html 
 
 ![image](https://github.com/user-attachments/assets/d72afa48-2f8b-404c-9d5c-198debf1930b)
 
