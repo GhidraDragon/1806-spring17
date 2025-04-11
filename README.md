@@ -1,3 +1,9 @@
+
+
+WTF does this look like programming or math?
+
+![image](https://github.com/user-attachments/assets/d72afa48-2f8b-404c-9d5c-198debf1930b)
+
 # MIT Course 18.06, Spring 2017
 
 This is a repository for Prof. Steven G. Johnson's course [18.06: Linear Algebra](http://web.mit.edu/18.06) at MIT in 2017.
